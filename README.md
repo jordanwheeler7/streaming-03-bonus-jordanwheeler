@@ -21,15 +21,3 @@ The goal of this bonus assignment is to create a continuous stream of data from 
 7. Run the consumer.py file to read the data from the queue and print it to the console.
 
 ![Multiple Terminal Windows](/multiple_terminal_bonus.png)
-
-## Instructions Used For This Assignment
-
-1. Create  your own custom project. Create a new repo named streaming-03-bonus-yourname. (e.g., streaming-03-bonus-case)
-2. Create a new producer that reads from your earlier CSV file and writes messages to a new queue every 1-3 seconds.
-3. Create a new consumer that reads your messages from this queue, and writes the messages to a new file as they are received.
-4. Your README.md must include your name, the date.
-5. Your README.md must provide a link to the original data.
-6. Your README.md must clearly describe what you did, telling the story of your data, your producer, and your consumer,
-7. Your README.md must display a screenshot of the two windows running concurrently. 
-8. Add a .gitignore (telling which files and directories NOT to push up to GitHub).  Recommendation:  copy .gitignore from an earlier repo. 
-9. These are the important skills you want to demonstrate. Create unique streaming projects, using professional communication. I encourage you to give it a try. 
